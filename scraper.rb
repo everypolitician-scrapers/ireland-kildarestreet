@@ -36,7 +36,7 @@ def scrape_list(url)
       constituency: tds[3].text,
     }
     data[:id] = data[:image][/(\d+).(jpg|png)$/, 1]
-    data[:image] = URI.join(url, data[:image]).to_s.sub('/images/','/images/mpsL/') unless data[:image].to_s.empty?
+    data[:image] = URI.join(url, data[:image]).to_s.sub('/images/mps/','/images/mpsL/') unless data[:image].to_s.empty?
     data
   end
 end
