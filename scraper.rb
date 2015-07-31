@@ -13,9 +13,16 @@ def noko_for(url)
   Nokogiri::HTML(open(url).read)
 end
 
+def fix_party_name(str)
+  return 'Fianna Fáil' if str == 'Fianna Fail'
+  return 'Sinn Féin' if str == 'Sinn Fein'
+  return str
+end
+
 def reprocess_csv(file)
   csv = CSV.table(open(file))
   csv.map do |td|
+    td[:party]     = fix_party_name(td[:party])
     td[:id]        = (td.delete :person_id).last
     td[:source]    = (td.delete :uri).last
     td[:sort_name] = "%s, %s" % [td[:last_name], td[:first_name]]
