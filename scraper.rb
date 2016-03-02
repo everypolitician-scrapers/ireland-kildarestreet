@@ -26,7 +26,7 @@ def reprocess_csv(file)
     td[:id]        = (td.delete :person_id).last
     td[:source]    = (td.delete :uri).last
     td[:sort_name] = "%s, %s" % [td[:last_name], td[:first_name]]
-    td[:term]      = '31'
+    td[:term]      = '32'
     td.to_hash
   end
 end
