@@ -14,3 +14,5 @@ gem "nokogiri"
 gem "open-uri-cached"
 gem "fuzzy_match"
 gem 'wikidata-client', '~> 0.0.7', require: 'wikidata'
+gem 'scraped_page_archive', git: 'https://github.com/everypolitician/scraped_page_archive', branch: 'master'
+
