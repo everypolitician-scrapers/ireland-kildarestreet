@@ -6,6 +6,7 @@ require 'csv'
 require 'json'
 require 'nokogiri'
 require 'scraperwiki'
+require 'scraped_page_archive/open-uri'
 
 require 'pry'
 
