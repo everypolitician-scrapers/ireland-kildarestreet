@@ -18,9 +18,9 @@ response:
     message: OK
   headers:
     Server:
-    - nginx/1.10.2
+    - nginx/1.10.3
     Date:
-    - Fri, 27 Jan 2017 04:54:56 GMT
+    - Tue, 07 Feb 2017 04:39:41 GMT
     Content-Type:
     - text/html; charset=UTF-8
     Connection:
@@ -36,4 +36,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 27 Jan 2017 04:54:56 GMT
+recorded_at: Tue, 07 Feb 2017 04:39:41 GMT
