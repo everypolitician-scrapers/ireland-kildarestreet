@@ -18,9 +18,9 @@ response:
     message: OK
   headers:
     Server:
-    - nginx/1.10.2
+    - nginx/1.10.3
     Date:
-    - Fri, 27 Jan 2017 04:54:50 GMT
+    - Tue, 07 Feb 2017 04:39:34 GMT
     Content-Type:
     - application/octet-stream
     Connection:
@@ -38,4 +38,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Fri, 27 Jan 2017 04:54:50 GMT
+recorded_at: Tue, 07 Feb 2017 04:39:35 GMT
