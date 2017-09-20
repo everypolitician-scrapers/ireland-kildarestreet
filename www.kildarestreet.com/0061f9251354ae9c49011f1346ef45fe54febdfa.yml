@@ -20,7 +20,7 @@ response:
     Server:
     - nginx/1.10.3
     Date:
-    - Tue, 19 Sep 2017 00:05:47 GMT
+    - Wed, 20 Sep 2017 15:39:24 GMT
     Content-Type:
     - application/octet-stream
     Transfer-Encoding:
@@ -38,4 +38,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 19 Sep 2017 00:05:47 GMT
+recorded_at: Wed, 20 Sep 2017 15:39:24 GMT
