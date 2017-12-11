@@ -20,11 +20,9 @@ response:
     Server:
     - nginx/1.10.3
     Date:
-    - Sun, 10 Dec 2017 11:59:26 GMT
+    - Mon, 11 Dec 2017 06:38:31 GMT
     Content-Type:
     - application/octet-stream
-    Transfer-Encoding:
-    - chunked
     Connection:
     - keep-alive
     X-Powered-By:
@@ -35,7 +33,9 @@ response:
     - max-age=15768000
     X-Frame-Options:
     - DENY
+    Content-Length:
+    - '16269'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 10 Dec 2017 11:59:26 GMT
+recorded_at: Mon, 11 Dec 2017 06:38:32 GMT
