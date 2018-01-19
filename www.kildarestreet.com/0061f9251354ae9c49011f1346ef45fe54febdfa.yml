@@ -20,13 +20,13 @@ response:
     Server:
     - nginx/1.10.3
     Date:
-    - Sun, 14 Jan 2018 03:11:42 GMT
+    - Fri, 19 Jan 2018 20:44:27 GMT
     Content-Type:
     - application/octet-stream
     Connection:
     - keep-alive
     X-Powered-By:
-    - PHP/5.6.32-1~dotdeb+7.1
+    - PHP/5.6.33-1~dotdeb+7.1
     Content-Disposition:
     - attachment; filename="members.csv"
     Strict-Transport-Security:
@@ -38,4 +38,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Sun, 14 Jan 2018 03:11:42 GMT
+recorded_at: Fri, 19 Jan 2018 20:44:27 GMT
