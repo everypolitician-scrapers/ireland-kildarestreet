@@ -20,7 +20,7 @@ response:
     Server:
     - nginx/1.10.3
     Date:
-    - Mon, 19 Feb 2018 13:46:49 GMT
+    - Tue, 20 Feb 2018 08:08:20 GMT
     Content-Type:
     - application/octet-stream
     Connection:
@@ -38,4 +38,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Mon, 19 Feb 2018 13:46:50 GMT
+recorded_at: Tue, 20 Feb 2018 08:08:21 GMT
