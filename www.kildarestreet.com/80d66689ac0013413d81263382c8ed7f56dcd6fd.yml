@@ -20,11 +20,13 @@ response:
     Server:
     - nginx/1.10.3
     Date:
-    - Wed, 25 Apr 2018 12:54:45 GMT
+    - Thu, 26 Apr 2018 23:08:54 GMT
     Content-Type:
     - text/html; charset=UTF-8
     Connection:
     - keep-alive
+    Vary:
+    - Accept-Encoding
     X-Powered-By:
     - PHP/5.6.33-1~dotdeb+7.1
     Strict-Transport-Security:
@@ -32,8 +34,8 @@ response:
     X-Frame-Options:
     - DENY
     Content-Length:
-    - '8617'
+    - '7092'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Wed, 25 Apr 2018 12:54:45 GMT
+recorded_at: Thu, 26 Apr 2018 23:08:54 GMT
