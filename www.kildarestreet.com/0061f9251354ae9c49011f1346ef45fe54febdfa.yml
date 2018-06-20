@@ -20,7 +20,7 @@ response:
     Server:
     - nginx/1.10.3
     Date:
-    - Tue, 19 Jun 2018 00:51:32 GMT
+    - Wed, 20 Jun 2018 02:18:28 GMT
     Content-Type:
     - application/octet-stream
     Connection:
@@ -34,8 +34,8 @@ response:
     X-Frame-Options:
     - DENY
     Content-Length:
-    - '16269'
+    - '16271'
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Tue, 19 Jun 2018 00:51:33 GMT
+recorded_at: Wed, 20 Jun 2018 02:18:28 GMT
