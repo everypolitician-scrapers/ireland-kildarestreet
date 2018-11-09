@@ -20,7 +20,7 @@ response:
     Server:
     - nginx/1.10.3
     Date:
-    - Thu, 08 Nov 2018 21:05:29 GMT
+    - Fri, 09 Nov 2018 20:58:00 GMT
     Content-Type:
     - text/html; charset=UTF-8
     Connection:
@@ -38,4 +38,4 @@ response:
   body:
     encoding: ASCII-8BIT
   http_version: 
-recorded_at: Thu, 08 Nov 2018 21:05:29 GMT
+recorded_at: Fri, 09 Nov 2018 20:58:00 GMT
