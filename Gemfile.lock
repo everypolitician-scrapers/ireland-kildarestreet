@@ -25,7 +25,7 @@ GEM
     colorize (0.7.7)
     crack (0.4.3)
       safe_yaml (~> 1.0.0)
-    excon (0.45.4)
+    excon (0.71.0)
     execjs (2.5.2)
     faraday (0.9.1)
       multipart-post (>= 1.2, < 3)
